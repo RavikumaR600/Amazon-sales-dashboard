@@ -1,1 +1,2 @@
 # Amazon-sales-dashboard
+Dashboard link : https://app.powerbi.com/view?r=eyJrIjoiMzcwNWJlOTYtYWU3MS00OTdiLTkwY2EtN2FlMTA5NjIwMmRjIiwidCI6IjA2ODE1ZDQwLTJiMDktNDg0Yi05M2IzLTBmOGQxOWJlZmRhOSJ9
